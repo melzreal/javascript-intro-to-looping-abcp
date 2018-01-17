@@ -25,6 +25,6 @@ function whileLoop(x) {
     console.log("yay" + x);
     x--;
   }
-  
+  return ('done');
 }
  
