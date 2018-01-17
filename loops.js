@@ -13,6 +13,7 @@ function forLoop(phrases){
     phrases.push( 'I am"+ {i} +" strange loop' ); 
 
     }
-  }
+  } return phrases;
+  
 }
 
