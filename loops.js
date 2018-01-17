@@ -32,13 +32,14 @@ function whileLoop(x) {
   
   function maybeTrue() {
   return Math.random() >= 0.5
-}
+
+    
+  }
  
 do {
-  console.log('doo-bee-doo-bee-doo')
+  arr.pop();
 } while (maybeTrue());
 
-
-  return ('done');
+  return 
 }
  
