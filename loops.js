@@ -8,7 +8,7 @@ function forLoop(phrases){
     phrases.push("I am 1 strange loop.");
   } else{
   
-    phrases.push( "I am"+ [i] +" strange loop" ); 
+    phrases.push( "I am"+ i +" strange loop" ); 
 
     }
   }
