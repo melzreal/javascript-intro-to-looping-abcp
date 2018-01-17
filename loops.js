@@ -30,16 +30,17 @@ function whileLoop(x) {
  
  function doWhileLoop(arr) {
   
+  
   function maybeTrue() {
   return Math.random() >= 0.5
 
-    
+  
   }
  
-do {
+ do {
   arr.pop();
-} while (maybeTrue());
+ } while (maybeTrue());
 
-  return 
+ 
 }
  
