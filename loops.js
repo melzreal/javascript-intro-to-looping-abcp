@@ -34,15 +34,17 @@ function whileLoop(x) {
   function maybeTrue() {
   return Math.random() >= 0.5
 
-  
-  } if(arr[0]!=null){
+  } if(arr[0]!==null){
  
  do {
   arr.pop();
+ 
+   
  } while (maybeTrue());
 
  
 }
+return maybeTrue();
    
  }
  
