@@ -35,7 +35,7 @@ function whileLoop(x) {
   return Math.random() >= 0.5
 
   
-  } if(arr)
+  } if(arr[0]!=null){
  
  do {
   arr.pop();
@@ -43,4 +43,6 @@ function whileLoop(x) {
 
  
 }
+   
+ }
  
