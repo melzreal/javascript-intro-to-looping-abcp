@@ -21,7 +21,7 @@ function whileLoop(x) {
   
    
   
-  while(x > 0){
+  while(x => 0){
     console.log("yay" + x);
     x--;
   }
