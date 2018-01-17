@@ -19,11 +19,11 @@ function forLoop(phrases){
 
 function whileLoop(x) {
   
-  var count = 10;
+  var x = 10;
   
-  while(count>0){
+  while(x > 0){
     console.log("yay");
-    count++;
+    count--;
   }
   
 }
