@@ -19,7 +19,7 @@ function forLoop(phrases){
 
 function whileLoop(x) {
   
-   x = 10;
+   
   
   while(x > 0){
     console.log("yay" + x);
